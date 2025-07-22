@@ -18,7 +18,7 @@ struct onLongPressGestureBootcamp: View {
             Rectangle()
                 .fill(isSuccess ? Color.green : Color.blue)
                 .frame(maxWidth: isComplete ? .infinity : 0)
-                .frame(height: 55)
+                .frame(height: isComplete ? 300 : 50)
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .background(Color.gray)
               
