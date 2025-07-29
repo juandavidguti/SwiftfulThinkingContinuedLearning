@@ -77,9 +77,9 @@ struct UserModel: Identifiable {
         mappedArray = dataArray.compactMap({ $0.name }) // shorter versions
          */
         
-        let sort = dataArray.sorted { $0.points > $1.points }
-        let filter = dataArray.filter { $0.isVerified }
-        let map = dataArray.compactMap { $0.name }
+//        let sort = dataArray.sorted { $0.points > $1.points }
+//        let filter = dataArray.filter { $0.isVerified }
+//        let map = dataArray.compactMap { $0.name }
         
         mappedArray = dataArray
             .sorted { $0.points > $1.points }
