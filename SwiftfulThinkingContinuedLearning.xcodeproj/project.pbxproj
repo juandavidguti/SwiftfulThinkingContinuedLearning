@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3B6FA7502E3814E900E7F53B /* Exceptions for "SwiftfulThinkingContinuedLearning" folder in "SwiftfulThinkingContinuedLearning" target */ = {
+		3B71DA252E467667003444C6 /* Exceptions for "SwiftfulThinkingContinuedLearning" folder in "SwiftfulThinkingContinuedLearning" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -43,7 +43,7 @@
 		0E1FDB7F2E0EBE6900BA65A5 /* SwiftfulThinkingContinuedLearning */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3B6FA7502E3814E900E7F53B /* Exceptions for "SwiftfulThinkingContinuedLearning" folder in "SwiftfulThinkingContinuedLearning" target */,
+				3B71DA252E467667003444C6 /* Exceptions for "SwiftfulThinkingContinuedLearning" folder in "SwiftfulThinkingContinuedLearning" target */,
 			);
 			path = SwiftfulThinkingContinuedLearning;
 			sourceTree = "<group>";
